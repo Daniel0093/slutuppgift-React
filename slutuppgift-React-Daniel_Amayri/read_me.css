@@ -1,0 +1,12 @@
+# Hur funkar den här appen? 
+
+## App instruktioner : 
+Först, ska aktivera servern genom att förändra porten till 5000, för att förändra porten följ instruktionerna nedanför: 
+- öppna  ny terminal och skriv i  terminalen 'cd src'
+- Sedan i samma terminalen skriv 'cd airbean-api'
+- efteråt skriv  'node app.js'  
+-och sist inte minst,  Den visar meddelande i terminalen 'Server on port- 5000'
+
+efter du ser detta meddelande du kan öppna en ny terminal och skriv 'npm i'
+och nu du kan Run appen genom att skriva 'npm start'
+
